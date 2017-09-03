@@ -1,1 +1,15 @@
-<?php echo "Hello World"; ?>
+<?php echo "Hello World"; 
+
+
+
+
+
+
+
+
+
+
+
+echo "Teste no layout vermelho";
+
+?>
